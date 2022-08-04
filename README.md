@@ -4,5 +4,5 @@ Hello.
 # Other websites I got
 Right over here.
 ## roblox-scripts
-*Edited* scripts for Roblox exploits
+*Edited* scripts for Roblox exploits.
 It's at [this website.](https://bearflare20.github.io/roblox-scripts)
