@@ -6,3 +6,7 @@ Right over here.
 ## roblox-scripts
 *Edited* scripts for Roblox exploits.
 It's at [this website.](https://bearflare20.github.io/roblox-scripts)
+## The ChatGPT Clock
+Visit the *basic* ChatGPT Clock [right here!](https://bearflare20.github.io/ChatGPT-Clock/)
+# That's the end!
+**for now.**
