@@ -1,5 +1,5 @@
 # bearflare20.github.io
-Hello.
+Hello. This landing page is legacy. [Visit the new site here.](https://bearflare20.github.io/)
 ## Welcome to my landing page!
 # Other websites I got
 Right over here.
